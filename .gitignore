@@ -1,5 +1,5 @@
 # credentials
-# .env # sharing for now
+.env
 
 # dependencies
 node_modules
@@ -26,6 +26,5 @@ build-storybook.log
 
 # misc
 .DS_Store
-.env
 
 

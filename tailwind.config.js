@@ -5,7 +5,7 @@ module.exports = {
     },
     plugins: [],
     corePlugins: {
-        // disables TWs normalize
-        preflight: false,
+        // false disables TWs normalize
+        preflight: true,
     },
 };
