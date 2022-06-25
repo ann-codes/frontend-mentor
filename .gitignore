@@ -1,0 +1,31 @@
+# credentials
+# .env # sharing for now
+
+# dependencies
+node_modules
+/node_modules
+.cert
+
+# testing
+/coverage
+/cypress/artifacts
+/cypress/downloads
+
+# production
+/build
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# storybook
+storybook-static/
+build-storybook.log
+
+# misc
+.DS_Store
+.env
+
+
