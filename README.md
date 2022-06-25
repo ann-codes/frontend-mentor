@@ -9,7 +9,7 @@ Just a repo to hold all/most of the FE mentor exercises using tools I prefer.
 - [React Query](https://react-query.tanstack.com/)
 - [React Router v6](https://reactrouter.com/)
 - [Jotai](https://jotai.org/) 
-- [Tailwind](https://tailwindcss.com/)
+- [Tailwind](https://tailwindcss.com/) & [HeadlessUI](https://headlessui.dev/)
 - [Styled Components](https://styled-components.com/)
 
 # Setup
